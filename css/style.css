@@ -1,0 +1,9 @@
+/* CSS CHARSET OPTIONAL */
+@charset "UTF-8";
+/* CSS CHARSET OPTIONAL */
+
+/* The line below takes border and padding into consideration when calculating box width and height. 
+Remove if you do not want to use */
+* {
+  box-sizing: border-box;
+}
